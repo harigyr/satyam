@@ -1,0 +1,1 @@
+classpath*:org/satya123/hello.xml
